@@ -1,9 +1,8 @@
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
-###  DATE: 
+###  DATE: 04-04-2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT:
+###  NAME: SANJAY SIVARAMAKRISHNAN M
+###  ROLL NO : 212223240151
+###  DEPARTMENT: AIML
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
